@@ -1,4 +1,4 @@
-# Automated File Resizer with AWS Lambda & S3  
+# Automated File Resizing with AWS Lambda & S3  
 📄 Automatically resize files on upload and replace the original file using AWS Lambda and S3.  
 
 ## 🛠 Prerequisites  
